@@ -1,0 +1,10 @@
+C:\Users\ASUS\RiderProjects\Chrome\Chrome\bin\Debug\Chrome.exe.config
+C:\Users\ASUS\RiderProjects\Chrome\Chrome\bin\Debug\Chrome.exe
+C:\Users\ASUS\RiderProjects\Chrome\Chrome\bin\Debug\Chrome.pdb
+C:\Users\ASUS\RiderProjects\Chrome\Chrome\obj\Debug\Chrome.csprojAssemblyReference.cache
+C:\Users\ASUS\RiderProjects\Chrome\Chrome\obj\Debug\Chrome.Properties.Resources.resources
+C:\Users\ASUS\RiderProjects\Chrome\Chrome\obj\Debug\Chrome.csproj.GenerateResource.cache
+C:\Users\ASUS\RiderProjects\Chrome\Chrome\obj\Debug\Chrome.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\RiderProjects\Chrome\Chrome\obj\Debug\Chrome.exe
+C:\Users\ASUS\RiderProjects\Chrome\Chrome\obj\Debug\Chrome.pdb
+C:\Users\ASUS\RiderProjects\Chrome\Chrome\obj\Debug\Chrome.Form1.resources
